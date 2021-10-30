@@ -1,4 +1,4 @@
-# music-player
+# Music-player
 This is a simple User Interface of Music player created in HTML, CSS and JavaScript.
 
 ## Running the player
